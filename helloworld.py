@@ -1,1 +1,1 @@
-print ("Made changes through IDE")
+print ("I changed the content thrugh github.com")
